@@ -4,7 +4,7 @@
   "description": "Send email from from node application",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "create": "node ./library/mail-maker.js",
     "start": "node index.js"
   },
   "repository": {
