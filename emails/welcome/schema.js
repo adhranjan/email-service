@@ -1,7 +1,7 @@
 module.exports = {
     "$schema": "http://json-schema.org/draft-04/schema#",
-    "title": "Case Alert",
-    "description": "Verify Case alert before adding in firebase",
+    "title": "Welcome Email",
+    "description": "Sending welcome to new user",
     "type": "object",
     "properties": {
         "name": {
