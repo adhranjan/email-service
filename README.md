@@ -10,7 +10,7 @@ This thing doesnt really work, my goal is to make this work
 
 `npm run create $email_name`
 
-
+##Run a project
 
 `git clone git@github.com:adhranjan/email-service.git
 `
